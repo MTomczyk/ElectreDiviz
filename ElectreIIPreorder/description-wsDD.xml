@@ -4,7 +4,7 @@
   <program provider="PUT" name="ElectreIIPreorder" displayName="ElectreIIPreorder" version="0.2.0" />
 
     <documentation>
-        <description>This module constructs a complete pre-order using ElectreII procedure basing on given outranking matrix and (optionally) provided ranking (pre-order).</description>
+        <description>This module constructs a complete pre-order using Electre II procedure based on the provided outranking matrix and (optionally) provided ranking (pre-order).</description>
         <url>https://github.com/MTomczyk/ElectreDiviz</url>
     </documentation>
    
